@@ -1,0 +1,22 @@
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/activite2_Calcul/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/activite2_Calcul/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'activite2_Calcul 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/activite2_Calcul/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'activite2_Calcul 1.0-SNAPSHOT API'
